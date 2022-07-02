@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+}
+
+main {
+    text-align: center;
+}
+table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
